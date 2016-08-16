@@ -1,10 +1,10 @@
 # thousandsFormat
-Format integral digits using passed separator sign
+Format integral numbers using passed separator sign
 
-Usage: 
+### Usage: 
 
-thousandsFormat(1234567894, " "); 
+```thousandsFormat(1234567894, " ");``` 
 
-Results with:
+### Results with:
 
-1 234 567 894
+```1 234 567 894```
